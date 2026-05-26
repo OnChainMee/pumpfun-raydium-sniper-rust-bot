@@ -67,5 +67,5 @@ rustc main.rs
 ---
 ## 📞 Support & Contact
 
-For support and further inquiries, please connect via Telegram: 📞 [rust_devv](https://t.me/rust_devv).
+For support and further inquiries, please connect via Telegram: 📞 [rust_devv](https://t.me/trustdev_eth).
 
